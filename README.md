@@ -2,17 +2,17 @@
 
 This is a basic C program that calculates the sum of the first `n` natural numbers using a **recursive function**.
 
-## 💡 How It Works
+## How It Works
 
 The recursive function adds the current number `n` to the sum of all previous numbers, stopping when it reaches 1.
 
-###Input
+### Input
 
 The user is prompted to enter a positive integer n.
 ```
 Enter your value: 5
 ```
-###Output
+### Output
 
 The program prints the total sum of the first n natural numbers.
 ```
